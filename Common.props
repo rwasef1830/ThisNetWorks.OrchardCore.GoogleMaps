@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <Copyright>Dean Marcussen</Copyright>
-    <Authors>Dean Marcussen</Authors>
-    <PackageProjectUrl>https://github.com/ThisNetWorks/ThisNetWorks.OrchardCore.GoogleMaps</PackageProjectUrl>
+    <Authors>Dean Marcussen; Raif Atef</Authors>
+    <PackageProjectUrl>https://github.com/rwasef1830/ThisNetWorks.OrchardCore.GoogleMaps</PackageProjectUrl>
     <PackageLicenseExpression>BSD-3-Clause</PackageLicenseExpression>
     <VersionSuffix>preview</VersionSuffix>
     <VersionSuffix Condition="'$(VersionSuffix)'!='' AND '$(BuildNumber)' != ''">$(VersionSuffix)-$(BuildNumber)</VersionSuffix>
